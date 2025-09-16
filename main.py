@@ -7,10 +7,15 @@ Date:
     16.9.2025
 
 Auther:
-    Amir Khatib
+    Marc
 
 
-Github       : https://github.com/NABEGHEHACOM/FlappyBird
+Github       : https://github.com/Marcus-Holloway2010/Flappy_Bird
+
+
+****
+Python Version: 3.13.7
+Pygame Version: 2.6.1
 
 """
 
@@ -258,4 +263,3 @@ while True:
     pygame.display.update()
     # SET GAME SPEED
     clock.tick(test_speed)
-
